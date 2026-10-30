@@ -1,0 +1,4 @@
+# My Spot POS
+
+AI-Powered Inventory Management & Point of Sale system for supermarkets.
+Works online and fully offline.
